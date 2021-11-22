@@ -8,16 +8,16 @@
         "Translator",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Google-Translator-Bot",
+    "website": "https://github.com/testerforappu2006/Google-Translator-Bot",
+    "repository": "https://github.com/testerforappu2006/Google-Translator-Bot",
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "https://my.telegram.org/auth",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "https://my.telegram.org/auth",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -29,7 +29,7 @@
             "value": ""
         },
         "DATABASE": {
-            "description": "Video Link https://youtu.be/gBLTsH-IXr0",
+            "description": "https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713423&gclid=CjwKCAiAnO2MBhApEiwA8q0HYa5iPJ4UaXqJL5esk60ipqzX1h03XgFY7_OCi3CChqSul3GF8hapwhoC-CkQAvD_BwE",
             "value": ""
         }
     },
